@@ -1,0 +1,2 @@
+Submit a zip file and name it “Exp-01-<Roll No>. 
+The file should contain python code source file, Read Me File, Report in PDF Format, Input Images, Output Images.
